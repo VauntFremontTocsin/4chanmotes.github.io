@@ -16,7 +16,7 @@
 // @grant       GM.listValues
 // @grant       GM.deleteValue
 // @grant       GM.xmlHttpRequest
-// @icon        https://4chanmotes.github.io/emotes/kurisuprised.png
+// @icon        https://github.com/VauntFremontTocsin/4chanmotes.github.io/emotes/kurisuprised.png
 // ==/UserScript==
 
 /* This is for compatibility between userscript managers
